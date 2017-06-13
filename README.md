@@ -1,7 +1,7 @@
 # Halter.  A tool for training donkeys
 
 Halter is an API + UI for quickly assigning "reward" scores to images captured
-by a donkey car for use in reinforcement training.
+by a [donkey car](http://www.donkeycar.com/) for use in reinforcement training.
 
 To start a halter server:
 
